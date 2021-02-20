@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'Screen/login_screen.dart';
 
+bool isEnglish = true;
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
